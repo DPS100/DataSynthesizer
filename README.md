@@ -10,5 +10,5 @@ kagglehub
 diffusers
 transformers
 scipy
-torch
+torch (https://pytorch.org/)
 accelerate
