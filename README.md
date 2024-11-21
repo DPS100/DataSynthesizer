@@ -12,3 +12,4 @@ transformers
 scipy
 torch (https://pytorch.org/)
 accelerate
+datasets
